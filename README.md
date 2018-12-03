@@ -1,5 +1,5 @@
-# arduino
-open source arduino project for toys
+# overview
+Arduino based AHRS project, based on PI, MadgwickAHRS and extended kalman filter sensor fusion algorithm  
 # hardware
 [NUCLE0-F401RE](https://www.st.com/zh/evaluation-tools/nucleo-f401re.html)
 
